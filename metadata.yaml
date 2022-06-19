@@ -1,0 +1,34 @@
+_repo: Address-of-President-Roosevelt-at-the-Lincoln-dinner-of-the-Republican-club-of-the-city-of-Ne__68266
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: https://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: ''
+gutenberg_issued: '2022-06-08'
+identifiers:
+  gutenberg: '68266'
+language: en
+pgterms:marc904: https://archive.org/details/addresspreside00roosev
+pgterms:marc905: 20220516124752roosevelt
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Government Printing Office,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Address of President Roosevelt at the Lincoln dinner of the Republican club
+  of the city of New York, Waldorf-Astoria Hotel, February 13, 1905
+url: http://www.gutenberg.org/ebooks/68266
